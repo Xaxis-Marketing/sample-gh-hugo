@@ -1,0 +1,11 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://xaxis-marketing.github.io/offsite"
+title: "Tuturial for Hosting on GitHub"
+canonifyurls: true
+theme: "Lanyon"
+...
